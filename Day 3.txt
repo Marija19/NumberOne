@@ -1,0 +1,20 @@
+3.7 Exercises
+
+1. The concept of the game would be to swat away mosquitoes and other pesky attackers in a camping/forest environment. 
+In a linear setting, the AI of the game would walk a predetermined character to the camp site and the user's only focus wouldd be to tap as many pests away as possible in an allotted amount of time.
+In a non-linear setting, healthbars and obstacles would be introduced. 
+The goal would be to swat away as many as possible within a timeline and/or while engaging in other goals within the level.
+Character creation would be available. Daily goals, once achieved, would give prizes (such as bug spray, nets, etc.) that could be used throughout each level as the character progresses. 
+Character progression would depend on a successful walk through paths to find the main campsite, quick response time to mosquito attacks, avoiding path obstacles and reaching for found items in the forest alongside different paths.
+	a) No group discussion recommended.
+	b) No group discussion recommended.
+
+2. a) In the linear, there would be less-to-no storytelling and the UI would be very basic. Vice-versa for the non-linear.
+   b) Linear would be real-time and non-linear would be turn-based.
+
+3. In either case of the game, there would be both passive and active challenges. The pests, as well as the character base, forest and campsite would be introduced. 
+The gamer would pick up 'boosts' (such as nets, bug spray, etc) while moving through the path, but would also suffer fatigue/health depending on pathway obstacles and pests not swatted before attacking.
+
+4. The start of the game would include an introduction to the character (either created by the user in a non-linear version or pre-chosen in a linear version).
+In continuation, the campsite would be introduced with a quick tutorial on items available in the level as well as how to operate the chosen character (non-linear).
+Depending on which type of gameplay the user chooses, the continuing layout would either be linear or parallel.
