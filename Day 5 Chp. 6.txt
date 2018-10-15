@@ -1,0 +1,21 @@
+Day 5 Exercises
+
+2. A) 1. Catalyst Wars GDD - I would view this GDD as bad first because while reading through it I got completely confused as to what the intended purpose of the gameplay is, the rules and options being so vast that the actual end-game point is lost.
+- the story outline reads like a novel with so many concepts involved that a target audience, as well as any projected timeline is frustrating to discern.
+- due to the overload of the game components it felt as if the designer based their entire gameplay on pre-existing, highly-market-competitive games.
+- the lack of any distinct description of a title menu, budget system, and especially full-release timeframe (as mention on page 34, it sounded like a "we'll get out what with can and work from there" type of concept), was highly dissappointing.
+- non-existant title page and specified marketing analysis.  
+      2. Flying GDD 
+- complete ouline/table of contents non existant.
+- art and audio specifications very vague/non-existant.
+- no estimated/specified schedule, budget or release date. No specified target audience or ESRB rating. 
+
+   B) The Claw GDD and Doom GDDs are both succesful forms for a GDD design file because they both:
+- are concise and well organized with a clear outline (title pages) that helps the reader not lose focus as to what is expected to be introduced.
+- they include a scheduled time frame and an analysis, as well as including schedules and writer infos.
+- they explain the world, concept of it as well as the characters, loot and levels in an organized way that is not over-written while adding enough core details to get the concept across.
+
+   C) Compared to modern day GDDs provided, Pole Position GDD and Tempest GDD seem similar in the way that there are set guidelines/bulletpoints for the environment, audio, character and goal description, as well as gameplay.
+However, there seemed to be a lot more discussion/focus via intranet memos with regards to the problems being caused by the console the games were being played on, as well as customer dissatisfaction with glitches, etc.
+The audio was discussed and market analysis were done and written down, but unlike these old-school games, modern day GDDs seem to focus more on character creation, level, story layout and design than on platform specs and possible failures.
+
